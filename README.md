@@ -6,9 +6,9 @@ Introductory blog post: https://medium.com/@thejameskyle/react-loadable-2674c59d
 
 **Important files**
 
-- [`src/components/App.js`](./src/components/App.js)
-- [`src/components/Loading.js`](./src/components/Loading.js)
-- [`src/components/Example.js`](./src/components/Example.js)
+- [`src/components/App.js`](./blob/master/imports/components/App.js)
+- [`src/components/Loading.js`](./blob/master/imports/components/Loading.js)
+- [`src/components/Example.js`](./blob/master/imports/components/Example.js)
 
 **Running locally**
 
